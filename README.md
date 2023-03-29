@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/Preview.png" width="100%">
+  <img alt="projeto Habits" src="src/assets/Preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
