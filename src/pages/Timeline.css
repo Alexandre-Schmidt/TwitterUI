@@ -17,12 +17,12 @@
 }
 
 .new-tweet-form label textarea{
-  flex: 1;  /* Ocupar todo espaço*/
+  flex: 1;
   border: 0;
   font-size: 1.25rem;
   font-weight: 500;
   margin-top: 0.75rem;
-  resize: none; /* bloquear o redimencionamento*/
+  resize: none; 
 }
 
 .new-tweet-form label textarea:focus{
@@ -34,7 +34,7 @@
 }
 
 .new-tweet-form button[type=submit] {
-  margin-left: auto; /* ele vai todo para direita*/
+  margin-left: auto; 
   background: var(--twitter-blue);
   border-radius: 99999px;
   padding: 0.75rem 1.5rem;
