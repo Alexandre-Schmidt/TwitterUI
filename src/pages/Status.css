@@ -20,12 +20,12 @@
 }
 
 .answer-tweet-form label textarea{
-  flex: 1;  /* Ocupar todo espaço*/
+  flex: 1; 
   border: 0;
   font-size: 1.25rem;
   font-weight: 500;
   margin-top: 1.25rem;
-  resize: none; /* bloquear o redimencionamento*/
+  resize: none; 
 }
 
 .answer-tweet-form label textarea:focus{
@@ -37,7 +37,7 @@
 }
 
 .answer-tweet-form button[type=submit] {
-  margin-left: auto; /* ele vai todo para direita*/
+  margin-left: auto; 
   background: var(--twitter-blue);
   border-radius: 99999px;
   padding: 0.75rem 1.5rem;
