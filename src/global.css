@@ -10,7 +10,7 @@
 
 body{
   color: #0f1419;
-  -webkit-font-smoothing: antialiased;/* Deixa a fonte mais nitida*/
+  -webkit-font-smoothing: antialiased;
 }
 body, input, textarea, button {
   font: 400 1rem Roboto, sans-serif;
