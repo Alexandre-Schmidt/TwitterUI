@@ -20,7 +20,7 @@ export function Status() {
     setAnswers([newAnswer, ...answers]);
     setNewAnswer("");
   }
-  // função para fazer um submit apertando crtl + Enter
+
   function handleHotkeySubmit(event: KeyboardEvent) {
     if (event.key === "Enter" && (event.ctrlKey || event.metaKey)) {
       setAnswers([newAnswer, ...answers]);
