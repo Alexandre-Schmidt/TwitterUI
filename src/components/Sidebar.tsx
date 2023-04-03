@@ -10,7 +10,7 @@ import {
   User,
 } from "phosphor-react";
 import { NavLink } from "react-router-dom";
-// NavLink adiciona um active quando o link for o atual
+
 import twitterLogo from "../assets/logo-twitter.svg";
 
 import "./Sidebar.css";
