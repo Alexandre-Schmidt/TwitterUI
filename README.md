@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -31,15 +31,35 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React (react-dom | react-router-dom)
 - Figma
 
-## 💻 Projeto
+## 💻 Funcionalidades:
 
-Esse projeto é um clone da interface de usuário (UI) do Twitter utilizando React focado em abordar os fundamentos dessa tecnologia como componentização, propriedades, estado, formulários, etc.
-
-- [Visite o projeto online](https://Alexandre-Schmidt.github.io/TwitterUI)
+- [x] Registro de usuário
+- [x] Criação de Tweet
+- [x] Comentar o Tweet
+- [x] Mensagens diretas
+- [x] Retweet
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2x6LWtFbG91VkkyN2dlQzBEZ0JUdlUzZTFRd3xBQ3Jtc0tsRExqVFFzWEhETGx5QUY4NW1fdFlCYTZKb1lqeEtrNFI2NHc2UTVkZWwzYS1VZkU2VWJmbW5HbE1ucjI1LTBHOWlmNGNSTTMzQ3U1emZlRnVqakNTckxlV3YzdHRBZWg3eUZjajB5SVNZY3VEZy14OA&q=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1202694130789327431&v=99okStmx-7c). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 🚀 Instalação e uso
+
+```bash
+# Clone o repositório
+git clone https://github.com/Alexandre-Schmidt/TwitterUI.git
+
+# Acesse a pasta do projeto
+cd TwitterUI
+
+# Instale as dependências
+npm install
+
+# Execute a aplicação
+npm run dev
+
+# O servidor inciará na porta:3000 - acesse http://localhost:3000
+```
 
 ## :memo: Licença
 
@@ -47,4 +67,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+:wave: Confira meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/alexandreborgesschmidt/)
